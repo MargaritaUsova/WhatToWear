@@ -1,4 +1,4 @@
-package com.example.whattowear
+package com.margaritausova.whattowear
 
 import kotlin.test.Test
 import kotlin.test.assertEquals

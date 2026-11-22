@@ -20,11 +20,11 @@ dependencies {
 }
 
 android {
-    namespace = "com.example.whattowear"
+    namespace = "com.margaritausova.whattowear"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "com.example.whattowear"
+        applicationId = "com.margaritausova.whattowear"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1

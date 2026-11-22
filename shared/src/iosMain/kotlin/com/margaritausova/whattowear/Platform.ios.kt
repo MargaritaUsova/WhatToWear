@@ -1,4 +1,4 @@
-package com.example.whattowear
+package com.margaritausova.whattowear
 
 import platform.UIKit.UIDevice
 

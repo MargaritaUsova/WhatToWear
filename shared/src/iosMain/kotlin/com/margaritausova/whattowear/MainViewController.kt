@@ -1,4 +1,4 @@
-package com.example.whattowear
+package com.margaritausova.whattowear
 
 import androidx.compose.ui.window.ComposeUIViewController
 
