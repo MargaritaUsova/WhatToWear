@@ -1,6 +1,5 @@
 package com.margaritausova.whattowear.domain
 
 interface WeatherRepository {
-
-    suspend fun getWeather(): Weather
+    suspend fun getWeather(coordinates: Coordinates): Weather
 }
